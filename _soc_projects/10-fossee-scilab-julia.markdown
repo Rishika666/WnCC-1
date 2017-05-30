@@ -34,3 +34,4 @@ The applicant should-
 * Created a test library for familiarising myself with the Scilab API.
 * Also successfully linked Julia to the test library and called a function in Julia.
 
+### Week 1
